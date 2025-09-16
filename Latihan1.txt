@@ -1,7 +1,6 @@
 Pada latihan 1 ini saya sudah;
 1. Membuat akun github
 2. Membuat repositori
-3. Melakukan edit pada file Readme.txt
 
 Pada latihan ini juga saya sudah;
 a. membuat file latihan1.txt
